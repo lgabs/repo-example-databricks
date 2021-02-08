@@ -9,6 +9,8 @@
 # MAGIC - commitar em branch, abrir PR
 # MAGIC 
 # MAGIC documentação: https://docs.databricks.com/notebooks/github-version-control.html
+# MAGIC 
+# MAGIC repo: https://github.com/lgabs/repo-example-databricks.git
 
 # COMMAND ----------
 
@@ -23,3 +25,7 @@ my_cool_class
 # COMMAND ----------
 
 my_cool_class.f()
+
+# COMMAND ----------
+
+print("hello world 2")
